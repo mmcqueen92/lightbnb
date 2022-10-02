@@ -1,11 +1,11 @@
--- INSERT INTO users (name, email, password)
--- VALUES ('Aaron A', 'email@a.com', '$2a$10$FB/BOAVhpuLvpOREQVmvmezD4ED/.JBIDRh70tGevYzYzQgFId2u.');
+INSERT INTO users (name, email, password)
+VALUES ('Aaron A', 'email@a.com', '$2a$10$FB/BOAVhpuLvpOREQVmvmezD4ED/.JBIDRh70tGevYzYzQgFId2u.');
 
--- INSERT INTO users (name, email, password)
--- VALUES ('Bobby B', 'email@a.com', '$2a$10$FB/BOAVhpuLvpOREQVmvmezD4ED/.JBIDRh70tGevYzYzQgFId2u.');
+INSERT INTO users (name, email, password)
+VALUES ('Bobby B', 'email@a.com', '$2a$10$FB/BOAVhpuLvpOREQVmvmezD4ED/.JBIDRh70tGevYzYzQgFId2u.');
 
--- INSERT INTO users (name, email, password)
--- VALUES ('Charlie C', 'email@a.com', '$2a$10$FB/BOAVhpuLvpOREQVmvmezD4ED/.JBIDRh70tGevYzYzQgFId2u.');
+INSERT INTO users (name, email, password)
+VALUES ('Charlie C', 'email@a.com', '$2a$10$FB/BOAVhpuLvpOREQVmvmezD4ED/.JBIDRh70tGevYzYzQgFId2u.');
 
 INSERT INTO properties (owner_id, title, thumbnail_photo_url, cover_photo_url, country, street, city, province, post_code)
 VALUES (1, 'average house', 'thumbnail1.com', 'cover1.com', 'Canada', '123 Street', 'Vancouver', 'BC', 'abc123');
